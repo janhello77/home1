@@ -1,4 +1,4 @@
-# GJSchool專案
+# GJSchool專案 
 ## 第一章
 ### 第一小節
 #### A
