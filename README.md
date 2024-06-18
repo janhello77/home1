@@ -19,4 +19,4 @@
 
 ## [文件解說](home1/porder.docx)
    
-![101圖](home1/iamges.png)
+![101圖](https://github.com/janhello77/home1/blob/main/images.png)
