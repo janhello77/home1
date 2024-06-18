@@ -17,5 +17,5 @@
 
 [GooGle](http://www.google.com)
 
-## [文件解說](blog/index.html)
+## [文件解說](home1/index.html)
    
